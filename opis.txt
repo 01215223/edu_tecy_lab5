@@ -1,0 +1,24 @@
+zadanie.1
+f(a, b, c, d) = acd' + a'c' + b'c'd + bd' + a'bc' + ab'c'd
+
+stosując przekształcenie Shannona wykonaj rozwinięcie wyrażenia f względem zmiennych:
+b - pierwszy poziom
+c - drugi poziom
+Wyznacz wyrażenia boolowskie po rozwinięciu.
+W programie Logisim-Evolution narysuj schemat po rozwinięciu dwupoziomowym z użyciem multiplekserów 2:1 oraz bramek.
+Sprawdź poprawność działania układu w symulacji wykorzystując równoważny zapis sumy mintermów (SOP):
+f(a, b, c, d) = Sum m(0, 1, 4, 5, 6, 9, 10, 12, 14)
+
+
+***
+
+zadanie.2
+f(a, b, c, d, e) = b'(f0) + b(f1)
+
+a) Podziel tablicę prawdy na dwie części względem zmiennej b.
+b) Wyznacz tablice Karnaugha funkcji f0 i f1.
+c) Zminimalizuj funkcje f0 i f1 do postaci sumy iloczynów metodą tablicy Karnaugha.
+Oznacz implikanty proste (pętelki) i odpowiadające im wyrażenia - jest to element niezbędny do uzyskania punktów.
+d) Zrealizuj funkcję f(a,b,c,d,e) w Logisim-Evolution z użyciem multipleksera 2:1 oraz bramek. 
+
+
